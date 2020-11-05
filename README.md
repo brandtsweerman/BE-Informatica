@@ -2,14 +2,12 @@
 
 Deze Site is voor ons PO opdracht deze hebben wij zelf gescherven.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Informatica
 
 Deze site komt er een game over informatica actief
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
@@ -23,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.veggipedia.nl%2Fgroentenenfruit%2Fjonagold&psig=AOvVaw1-YWmOF5lEZg_uWtJEMxUJ&ust=1604664970125000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC49_2w6-wCFQAAAAAdAAAAABAF)
 ```
 ```markdown
 Syntax highlighted code block
