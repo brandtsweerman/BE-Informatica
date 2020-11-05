@@ -22,7 +22,7 @@ Deze site komt er een game over informatica actief
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 ```markdown
 Syntax highlighted code block
