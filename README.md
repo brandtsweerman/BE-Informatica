@@ -21,7 +21,7 @@ Deze site komt er een game over informatica actief
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.veggipedia.nl%2Fgroentenenfruit%2Fjonagold&psig=AOvVaw1-YWmOF5lEZg_uWtJEMxUJ&ust=1604664970125000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC49_2w6-wCFQAAAAAdAAAAABAF)
+[Link](url) and ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 ```markdown
 Syntax highlighted code block
