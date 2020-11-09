@@ -7,7 +7,7 @@ Deze Site is voor ons PO opdracht deze hebben wij zelf gescherven.
 Deze site komt er informatie over informatica!
 
 ### Informatie Digitaal
-[Document43](<iframe src="https://stichtinglvo-my.sharepoint.com/personal/bf127939_leerling_bonnefantencollege_nl/_layouts/15/Doc.aspx?sourcedoc={a760112a-075d-47e0-b8eb-34a42d390708}&amp;action=embedview&amp;wdStartOn=1" width="476px" height="288px" frameborder="0">Dit is een ingesloten <a target="_blank" href="https://office.com">Microsoft Office</a>-documentbestand dat mogelijk is gemaakt met <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>)
+[Document43](https://stichtinglvo-my.sharepoint.com/:w:/g/personal/bf127939_leerling_bonnefantencollege_nl/ESoRYKddB-BHuOs0pC05BwgBQYGNbSNtaWR1lF587X5eMg?email=BF127929%40leerling.bonnefantencollege.nl&e=1tCx2v)
 
 ```markdown
 Syntax highlighted code block
